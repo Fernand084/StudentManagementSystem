@@ -1,8 +1,0 @@
-ID:1080,  Name:Edgar,  Arts: 9.0,  History: 7.2,  Math: 7.0,  Science: 6.2
-ID:420,  Name:Regina,  Arts: 8.2,  Math: 7.1,  Science: 8.0, History: 7.5
-ID:941,  Name:Alex,  Arts: 6.0,  Math: 8.0,  Science: 8.2, History: 8.5
-ID:720,  Name:David,  Arts: 8.0,  Math: 7.5,  Science: 7.5, History: 6.0
-ID:360,  Name:Rosa
-ID:360,  Nombre:Rosa,  Arts: 9.8,  History: 8.2,  Math: 7.0,  Science: 6.2
-ID:1080,  Nombre:Fernando,  Arts: 9.0,  History: 7.2,  Math: 7.0,  Science: 6.2
-ID:1080,  Nombre:Fernando,  Arts: 9.0,  History: 7.2,  Math: 7.0,  Science: 6.2
